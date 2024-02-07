@@ -9,9 +9,9 @@ description: "An Open Source Platform for Digital Transformation, Open Data and 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Raman Kazhamiakin
+  pic: https://my.fbk.eu/fbk-api/v2/picture/raman
+  position: CTO, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Albana Celepija
+  pic: https://my.fbk.eu/fbk-api/v2/picture/acelepija
+  position: Software Developer, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Matteo Chini
+  pic: https://my.fbk.eu/fbk-api/v2/picture/m.chini
+  position: Software Developer, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -41,9 +41,10 @@ people:
       url: #
     - title: google-plus
       url: #
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+
+- name: Fabio Fais
+  pic: https://my.fbk.eu/fbk-api/v2/picture/ffais
+  position: DevOps, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -52,9 +53,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Nawaz Khurshid
+  pic: https://my.fbk.eu/fbk-api/v2/picture/khurshid
+  position: Software Engineer, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -63,9 +64,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Matteo Martini
+  pic: https://my.fbk.eu/fbk-api/v2/picture/mmartini
+  position: Data Scientist, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -73,9 +74,10 @@ people:
       url: #
     - title: google-plus
       url: #
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+
+- name: Michele Nori
+  pic: https://my.fbk.eu/fbk-api/v2/picture/nori
+  position: Software Architect, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -84,9 +86,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Matteo Saloni
+  pic: https://my.fbk.eu/fbk-api/v2/picture/msaloni
+  position: Software Architect, SCC Lab, FBK
   social:
     - title: twitter
       url: #
@@ -95,9 +97,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Erica Tomaselli
+  pic: https://my.fbk.eu/fbk-api/v2/picture/ertomaselli
+  position: Software Engineer, Dedagroup spa
   social:
     - title: twitter
       url: #
@@ -105,37 +107,16 @@ people:
       url: #
     - title: google-plus
       url: #
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+
+- name: Alberto Carotti
+  pic: https://raw.githubusercontent.com/alb-car/dh-posts-resources/master/misc-resources/avatar.jpg
+  position: Software Engineer, Dedagroup spa
   social:
     - title: twitter
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
