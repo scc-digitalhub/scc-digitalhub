@@ -12,125 +12,97 @@ people:
 - name: Raman Kazhamiakin
   pic: https://my.fbk.eu/fbk-api/v2/picture/raman
   position: CTO, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:raman@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/raman-kazhamiakin/
 
 - name: Albana Celepija
   pic: https://my.fbk.eu/fbk-api/v2/picture/acelepija
   position: Software Developer, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:acelepija@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/albana-celepija/
 
 - name: Matteo Chini
   pic: https://my.fbk.eu/fbk-api/v2/picture/m.chini
   position: Software Developer, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:matteo.chini@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/matteo-chini/
 
 - name: Fabio Fais
   pic: https://my.fbk.eu/fbk-api/v2/picture/ffais
   position: DevOps, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:ffais@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/fabio-fais/
 
 - name: Nawaz Khurshid
   pic: https://my.fbk.eu/fbk-api/v2/picture/khurshid
   position: Software Engineer, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:khurshid@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/nawaz-khurshid/
 
 - name: Matteo Martini
   pic: https://my.fbk.eu/fbk-api/v2/picture/mmartini
   position: Data Scientist, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:mmartini@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/matteo-martini/
 
 - name: Michele Nori
   pic: https://my.fbk.eu/fbk-api/v2/picture/nori
   position: Software Architect, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:nori@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/michele-nori/
 
 - name: Matteo Saloni
   pic: https://my.fbk.eu/fbk-api/v2/picture/msaloni
   position: Software Architect, SCC Lab, FBK
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:msaloni@fbk.eu
+    - icon: link
+      url: https://ict.fbk.eu/people/detail/matteo-saloni/
 
 - name: Erica Tomaselli
   pic: https://my.fbk.eu/fbk-api/v2/picture/ertomaselli
   position: Software Engineer, Dedagroup spa
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:erica.tomaselli@dedagroup.it
+    - icon: link
+      url: TODO
 
 - name: Alberto Carotti
   pic: https://my.fbk.eu/fbk-api/v2/picture/acarotti
   position: Software Engineer, Dedagroup spa
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  links:
+    - icon: envelope-o
+      url: mailto:alberto.carotti@dedagroup.it
+    - icon: link
+      url: https://www.linkedin.com/in/alberto-carotti-2b9885150/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/scc-digitalhub
 
 # Postal address (add as many lines as necessary)
 address:
