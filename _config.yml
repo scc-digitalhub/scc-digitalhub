@@ -99,6 +99,42 @@ people:
     - icon: link
       url: https://www.linkedin.com/in/alberto-carotti-2b9885150/
 
+- name: Luca Trubbiani
+  pic: https://my.fbk.eu/fbk-api/v2/picture/ltrubbiani
+  position: Software Engineer, SCC Lab, FBK
+  links:
+    - icon: envelope-o
+      url: mailto:ltrubbiani@fbk.eu
+    - icon: link
+      url: TODO
+
+- name: Vitor Bezerra
+  pic: https://my.fbk.eu/fbk-api/v2/picture/vbezerra
+  position: Software Engineer, SCC Lab, FBK
+  links:
+    - icon: envelope-o
+      url: mailto:vbezerra@fbk.eu
+    - icon: link
+      url: TODO
+
+- name: Andrea Lattaruolo
+  pic: https://my.fbk.eu/fbk-api/v2/picture/alattaruolo
+  position: Software Engineer, SCC Lab, FBK
+  links:
+    - icon: envelope-o
+      url: mailto:alattaruolo@fbk.eu
+    - icon: link
+      url: TODO
+
+- name: Claudio Ballardini
+  pic: https://my.fbk.eu/fbk-api/v2/picture/cballardini
+  position: Software Engineer, SCC Lab, FBK
+  links:
+    - icon: envelope-o
+      url: mailto:cballardini@fbk.eu
+    - icon: link
+      url: TODO
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
