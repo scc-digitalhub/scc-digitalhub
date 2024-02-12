@@ -554,6 +554,16 @@ section h3.section-subheading {
     }
 }
 
+.team-container {
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+
+.team-member-container {
+    float: none;
+    display: inline-block;
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
