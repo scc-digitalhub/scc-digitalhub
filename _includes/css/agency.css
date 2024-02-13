@@ -655,6 +655,8 @@ section#contact .text-danger {
 footer {
     padding: 25px 0;
     text-align: center;
+    background-color: #222;
+    color: #fff;
 }
 
 footer span.copyright {
@@ -671,6 +673,11 @@ footer ul.quicklinks {
     font-family: {{ site.data.template.font.primary }};
     line-height: 40px;
 }
+
+footer ul.social-buttons li a {
+    background-color: #fff;
+    color: #222
+} 
 
 ul.social-buttons {
     margin-bottom: 0;
