@@ -176,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Afacad", sans-serif;
+    font-family: "Ysabeau SC", sans-serif;
     color: #{{ site.data.template.color.primary }};
 }
 

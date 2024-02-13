@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: 'Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;'
+  primary: '"Golos Text",sans-serif'
+  secondary: '"Golos Text",sans-serif;'
