@@ -725,3 +725,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+#docs-arrow {
+    font-size: 50%;
+    padding-left: 4px;
+    position: relative;
+    top: -2px;
+}
