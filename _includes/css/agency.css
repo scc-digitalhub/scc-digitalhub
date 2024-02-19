@@ -269,14 +269,28 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/gears-desaturated.jpg');
+    /*background-image: url('{{ site.baseurl }}/img/gears-desaturated.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: none;*/
+    background: linear-gradient(315deg, #352a09 1%, #140e0c 33%, #352a09 66%, #140e0c 99%);
+    animation: gradient 30s ease infinite;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+  }
 
 header .intro-text {
     padding-top: 100px;
