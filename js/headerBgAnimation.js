@@ -7,7 +7,7 @@ const paths = [
     "M0,590 350,590 475,640 600,640 800,720 3000,720"
 ]
 
-const pathsBuildTime = [ 2400, 2700, 2000, 2100, 3000, 2500 ]
+const pathsBuildTimes = [ 2400, 2700, 2000, 2100, 3000, 2500 ]
 
 const impulseDelays = [ 1800, 2200, 1300, 1500, 2500, 2000 ]
 
@@ -19,7 +19,7 @@ if (paths.length === 6 && pathsBuildTimes.length === 6 && impulseDelays.length =
     for (let i = 0; i < paths.length; i++) {
         let path = document.getElementById("impulse-path-" + i)
         path.setAttribute("d", paths[i])
-        path.style.animation = "dash " + pathsBuildTime[i] + "ms linear forwards"
+        path.style.animation = "dash " + pathsBuildTimes[i] + "ms linear forwards"
 
         let impulse = document.createElement("div")
         impulse.classList.add("impulse")
