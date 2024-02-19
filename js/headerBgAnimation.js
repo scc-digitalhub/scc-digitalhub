@@ -15,15 +15,17 @@ const trailAlpha = [ "ff", "dd", "99", "66", "33" ]
 const trailAdditionalDelay = 5
 
 let bg = document.getElementById("bg-animation")
-if (paths.length === pathsBuildTime.length && paths.length === impulseDelays.length) {
+if (paths.length === 6 && pathsBuildTimes.length === 6 && impulseDelays.length === 6) {
     for (let i = 0; i < paths.length; i++) {
         let path = document.getElementById("impulse-path-" + i)
         path.setAttribute("d", paths[i])
         path.style.animation = "dash " + pathsBuildTime[i] + "ms linear forwards"
 
-        let impulse = document.getElementById("impulse-" + i)
+        let impulse = document.createElement("div")
+        impulse.classList.add("impulse")
         impulse.style.offsetPath = 'path("' + paths[i] + '")'
         impulse.style.animationDelay = impulseDelays[i] + "ms"
+        bg.appendChild(impulse)
 
         for (let j = 0; j < trailAlpha.length; j++) {
             let trail = document.createElement("div")
@@ -36,5 +38,5 @@ if (paths.length === pathsBuildTime.length && paths.length === impulseDelays.len
         }
     }
 } else {
-    console.warn("Circuit effect not drawn due to misconfiguration: length of paths, pathsBuildTime and impulseDelays is not equal.")
+    console.warn("Circuit effect not drawn due to misconfiguration: lengths of paths, pathsBuildTimes and impulseDelays must be 6.")
 }
