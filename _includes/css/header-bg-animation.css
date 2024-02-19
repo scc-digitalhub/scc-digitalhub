@@ -1,20 +1,3 @@
-header {
-  background: linear-gradient(315deg, #352a09 1%, #140e0c 33%, #352a09 66%, #140e0c 99%);
-  animation: gradient 30s ease infinite;
-}
-
-@keyframes gradient {
-  0% {
-      background-position: 0% 0%;
-  }
-  50% {
-      background-position: 100% 100%;
-  }
-  100% {
-      background-position: 0% 0%;
-  }
-}
-
 #bg-animation {
   position: absolute;
   left: -200px;
