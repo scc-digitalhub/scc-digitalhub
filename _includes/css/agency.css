@@ -118,54 +118,63 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
-.btn-xl {
-    padding: 20px 40px;
-    border-color: #{{ site.data.template.color.primary }};
+.btn-all {
+    border-color: #db7336;
     border-radius: 3px;
     text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
-    font-size: 18px;
-    font-weight: 700;
+    font-family: "Golos Text",sans-serif;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #db7336;
 }
 
-.btn-xl:hover,
-.btn-xl:focus,
-.btn-xl:active,
-.btn-xl.active,
-.open .dropdown-toggle.btn-xl {
+.btn-xl {
+    padding: 20px 40px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.btn-m {
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.btn-all:hover,
+.btn-all:focus,
+.btn-all:active,
+.btn-all.active,
+.open .dropdown-toggle.btn-all {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.btn-xl:active,
-.btn-xl.active,
-.open .dropdown-toggle.btn-xl {
+.btn-all:active,
+.btn-all.active,
+.open .dropdown-toggle.btn-all {
     background-image: none;
 }
 
-.btn-xl.disabled,
-.btn-xl[disabled],
-fieldset[disabled] .btn-xl,
-.btn-xl.disabled:hover,
-.btn-xl[disabled]:hover,
-fieldset[disabled] .btn-xl:hover,
-.btn-xl.disabled:focus,
-.btn-xl[disabled]:focus,
-fieldset[disabled] .btn-xl:focus,
-.btn-xl.disabled:active,
-.btn-xl[disabled]:active,
-fieldset[disabled] .btn-xl:active,
-.btn-xl.disabled.active,
-.btn-xl[disabled].active,
-fieldset[disabled] .btn-xl.active {
+.btn-all.disabled,
+.btn-all[disabled],
+fieldset[disabled] .btn-all,
+.btn-all.disabled:hover,
+.btn-all[disabled]:hover,
+fieldset[disabled] .btn-all:hover,
+.btn-all.disabled:focus,
+.btn-all[disabled]:focus,
+fieldset[disabled] .btn-all:focus,
+.btn-all.disabled:active,
+.btn-all[disabled]:active,
+fieldset[disabled] .btn-all:active,
+.btn-all.disabled.active,
+.btn-all[disabled].active,
+fieldset[disabled] .btn-all.active {
     border-color: #{{ site.data.template.color.primary }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
-.btn-xl .badge {
+.btn-all .badge {
     color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
@@ -290,6 +299,8 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    position: relative;
+    z-index: 10;
 }
 
 header .intro-text .intro-lead-in {
@@ -806,7 +817,7 @@ body {
 }
 
 /* Arrow next to documentation in navbar */
-#docs-arrow {
+.external-arrow {
     font-size: 50%;
     padding-left: 4px;
     position: relative;
@@ -831,8 +842,6 @@ body {
 .modal-container {
     width: auto;
 }
-
-
 
 /* For displaying team members horizontally */
 /*
