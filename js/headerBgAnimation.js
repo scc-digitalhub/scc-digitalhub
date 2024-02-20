@@ -11,8 +11,8 @@ const pathsBuildTimes = [ 2400, 2700, 2000, 2100, 3000, 2500 ]
 
 const impulseDelays = [ 1800, 2200, 1300, 1500, 2500, 2000 ]
 
-const trailAlpha = [ "ff", "dd", "99", "66", "33" ]
-const trailAdditionalDelay = 5
+const trailAlpha =  [ "ff", "dd", "bb", "99", "66", "33" ]
+const trailAdditionalDelay = 4
 
 let bg = document.getElementById("bg-animation")
 if (paths.length === 6 && pathsBuildTimes.length === 6 && impulseDelays.length === 6) {
