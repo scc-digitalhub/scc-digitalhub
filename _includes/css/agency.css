@@ -256,8 +256,8 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #222;
+        padding: 8px 0;
+        background-color: #262220;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
