@@ -824,6 +824,11 @@ body {
     top: -2px;
 }
 
+/* Text in features */
+.feature-text {
+    height: 80px;
+}
+
 /* Image in About section */
 #img-architecture {
     display: block;
