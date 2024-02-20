@@ -270,9 +270,6 @@ header {
     color: #fff;
     height: 950px;
     background-attachment: scroll;
-    /*background-image: url('{{ site.baseurl }}/img/gears-desaturated.jpg');
-    background-position: center center;
-    background-repeat: none;*/
     background: linear-gradient(315deg, #352a09 1%, #140e0c 33%, #352a09 66%, #140e0c 99%);
     animation: gradient 30s ease infinite;
     background-size: 400% 400%;
@@ -564,6 +561,12 @@ section h3.section-subheading {
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+}
+
+#img-architecture {
+    display: block;
+    width: 80%;
+    margin: 20px auto 30px auto;
 }
 
 /* For displaying team members horizontally */
