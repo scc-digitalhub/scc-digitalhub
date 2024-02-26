@@ -11,7 +11,7 @@ description: "An open-source platform for digital transformation, open data and 
 people:
 - name: Raman Kazhamiakin
   pic: https://my.fbk.eu/fbk-api/v2/picture/raman
-  position: CTO, SCC Lab, FBK
+  position: CTO, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:raman@fbk.eu
@@ -20,7 +20,7 @@ people:
 
 - name: Albana Celepija
   pic: https://my.fbk.eu/fbk-api/v2/picture/acelepija
-  position: Software Developer, SCC Lab, FBK
+  position: Software Developer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:acelepija@fbk.eu
@@ -29,7 +29,7 @@ people:
 
 - name: Matteo Chini
   pic: https://my.fbk.eu/fbk-api/v2/picture/m.chini
-  position: Software Developer, SCC Lab, FBK
+  position: Software Developer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:matteo.chini@fbk.eu
@@ -38,7 +38,7 @@ people:
 
 - name: Fabio Fais
   pic: https://my.fbk.eu/fbk-api/v2/picture/ffais
-  position: DevOps, SCC Lab, FBK
+  position: DevOps, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:ffais@fbk.eu
@@ -47,7 +47,7 @@ people:
 
 - name: Nawaz Khurshid
   pic: https://my.fbk.eu/fbk-api/v2/picture/khurshid
-  position: Software Engineer, SCC Lab, FBK
+  position: Software Engineer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:khurshid@fbk.eu
@@ -56,7 +56,7 @@ people:
 
 - name: Matteo Martini
   pic: https://my.fbk.eu/fbk-api/v2/picture/mmartini
-  position: Data Scientist, SCC Lab, FBK
+  position: Data Scientist, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:mmartini@fbk.eu
@@ -65,7 +65,7 @@ people:
 
 - name: Michele Nori
   pic: https://my.fbk.eu/fbk-api/v2/picture/nori
-  position: Software Architect, SCC Lab, FBK
+  position: Software Architect, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:nori@fbk.eu
@@ -74,7 +74,7 @@ people:
 
 - name: Matteo Saloni
   pic: https://my.fbk.eu/fbk-api/v2/picture/msaloni
-  position: Software Architect, SCC Lab, FBK
+  position: Software Architect, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:msaloni@fbk.eu
@@ -101,7 +101,7 @@ people:
 
 - name: Luca Trubbiani
   pic: https://my.fbk.eu/fbk-api/v2/picture/ltrubbiani
-  position: Software Engineer, SCC Lab, FBK
+  position: Software Engineer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:ltrubbiani@fbk.eu
@@ -110,7 +110,7 @@ people:
 
 - name: Vitor Bezerra
   pic: https://my.fbk.eu/fbk-api/v2/picture/vbezerra
-  position: Software Engineer, SCC Lab, FBK
+  position: Software Engineer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:vbezerra@fbk.eu
@@ -119,7 +119,7 @@ people:
 
 - name: Andrea Lattaruolo
   pic: https://my.fbk.eu/fbk-api/v2/picture/alattaruolo
-  position: Software Engineer, SCC Lab, FBK
+  position: Software Engineer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:alattaruolo@fbk.eu
@@ -128,7 +128,7 @@ people:
 
 - name: Claudio Ballardini
   pic: https://my.fbk.eu/fbk-api/v2/picture/cballardini
-  position: Software Engineer, SCC Lab, FBK
+  position: Software Engineer, DSLab, FBK
   links:
     - icon: envelope-o
       url: mailto:cballardini@fbk.eu
