@@ -10,130 +10,74 @@ description: "An open-source platform for digital transformation, open data and 
 # Team names, titles and social links
 people:
 - name: Raman Kazhamiakin
-  pic: https://my.fbk.eu/fbk-api/v2/picture/raman
+  pic: img/placeholder.png
   position: CTO, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:raman@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/raman-kazhamiakin/
 
 - name: Albana Celepija
-  pic: https://my.fbk.eu/fbk-api/v2/picture/acelepija
+  pic: img/placeholder.png
   position: Software Developer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:acelepija@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/albana-celepija/
 
 - name: Matteo Chini
-  pic: https://my.fbk.eu/fbk-api/v2/picture/m.chini
+  pic: img/placeholder.png
   position: Software Developer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:matteo.chini@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/matteo-chini/
 
 - name: Fabio Fais
-  pic: https://my.fbk.eu/fbk-api/v2/picture/ffais
+  pic: img/placeholder.png
   position: DevOps, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:ffais@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/fabio-fais/
 
 - name: Nawaz Khurshid
-  pic: https://my.fbk.eu/fbk-api/v2/picture/khurshid
+  pic: img/placeholder.png
   position: Software Engineer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:khurshid@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/nawaz-khurshid/
 
 - name: Matteo Martini
-  pic: https://my.fbk.eu/fbk-api/v2/picture/mmartini
+  pic: img/placeholder.png
   position: Data Scientist, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:mmartini@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/matteo-martini/
 
 - name: Michele Nori
-  pic: https://my.fbk.eu/fbk-api/v2/picture/nori
+  pic: img/placeholder.png
   position: Software Architect, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:nori@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/michele-nori/
 
 - name: Matteo Saloni
-  pic: https://my.fbk.eu/fbk-api/v2/picture/msaloni
+  pic: img/placeholder.png
   position: Software Architect, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:msaloni@fbk.eu
-    - icon: link
-      url: https://ict.fbk.eu/people/detail/matteo-saloni/
 
 - name: Erica Tomaselli
-  pic: https://my.fbk.eu/fbk-api/v2/picture/ertomaselli
+  pic: img/placeholder.png
   position: Software Engineer, Dedagroup spa
   links:
-    - icon: envelope-o
-      url: mailto:erica.tomaselli@dedagroup.it
-    - icon: link
-      url: https://www.linkedin.com/in/erica-tomaselli/
 
 - name: Alberto Carotti
-  pic: https://my.fbk.eu/fbk-api/v2/picture/acarotti
+  pic: img/placeholder.png
   position: Software Engineer, Dedagroup spa
   links:
-    - icon: envelope-o
-      url: mailto:alberto.carotti@dedagroup.it
-    - icon: link
-      url: https://www.linkedin.com/in/alberto-carotti-2b9885150/
 
 - name: Luca Trubbiani
-  pic: https://my.fbk.eu/fbk-api/v2/picture/ltrubbiani
+  pic: img/placeholder.png
   position: Software Engineer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:ltrubbiani@fbk.eu
-    - icon: link
-      url: TODO
 
 - name: Vitor Bezerra
-  pic: https://my.fbk.eu/fbk-api/v2/picture/vbezerra
+  pic: img/placeholder.png
   position: Software Engineer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:vbezerra@fbk.eu
-    - icon: link
-      url: TODO
 
 - name: Andrea Lattaruolo
-  pic: https://my.fbk.eu/fbk-api/v2/picture/alattaruolo
+  pic: img/placeholder.png
   position: Software Engineer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:alattaruolo@fbk.eu
-    - icon: link
-      url: TODO
 
 - name: Claudio Ballardini
-  pic: https://my.fbk.eu/fbk-api/v2/picture/cballardini
+  pic: img/placeholder.png
   position: Software Engineer, DSLab, FBK
   links:
-    - icon: envelope-o
-      url: mailto:cballardini@fbk.eu
-    - icon: link
-      url: TODO
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
